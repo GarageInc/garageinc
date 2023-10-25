@@ -1,5 +1,3 @@
-### Hi there 👋, I'm <div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rfihtengolts" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ae.linkedin.com/in/rfihtengolts?trk=profile-badge">Rinat Fihtengolts</a></div> 
-
 ![GitHub Views](https://komarev.com/ghpvc/?username=garageinc)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=garageinc&theme=swift&border_radius=5&card_width=800)](https://git.io/streak-stats)
