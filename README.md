@@ -20,5 +20,5 @@ DB: PostgreSQL, MongoDB, Redis, ClickHouse
 
 **Available for:** Full-time/Part-time, Project-based, Technical advisory, Long-term partnerships
 
-📧 rinatficht@gmail.com | 💬 @rfihtengolts | 🔗 github.com/garageinc | https://www.linkedin.com/in/rfihtengolts/
+📧 rinatficht@gmail.com | 💬 https://t.me/rfihtengolts | https://www.linkedin.com/in/rfihtengolts/
 
