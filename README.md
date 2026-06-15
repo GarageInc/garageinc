@@ -18,7 +18,7 @@ DB: PostgreSQL, MongoDB, Redis, ClickHouse
 
 **Developed Projects:** https://t.me/ShogunSwapBot, app.silentswap.com, haqq.network, gun.fun, ankrscan.io, xdefi.io, app.santiment.net
 
-**Available for:** Full-time/Part-time, Project-based, Technical advisory, Long-term partnerships
+**Available for:** Full-time, Project-based, Consulting/MVP development, Long-term partnerships
 
 📧 rinatficht@gmail.com | 💬 https://t.me/rfihtengolts | https://www.linkedin.com/in/rfihtengolts/
 
