@@ -16,7 +16,7 @@ Backend: Node.js, Rust, PHP (Laravel), C# (.NET)
 Blockchain: Solana, Ethereum, Cosmos, TON
 DB: PostgreSQL, MongoDB, Redis, ClickHouse
 
-**Developed Projects:** https://t.me/ShogunSwapBot, haqq.network, gun.fun, ankrscan.io, xdefi.io, app.santiment.net
+**Developed Projects:** https://t.me/ShogunSwapBot, app.silentswap.com, haqq.network, gun.fun, ankrscan.io, xdefi.io, app.santiment.net
 
 **Available for:** Full-time/Part-time, Project-based, Technical advisory, Long-term partnerships
 
