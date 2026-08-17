@@ -12,13 +12,10 @@
 
 **Tech Stack:**
 Frontend: React/Vue, Next.js, TypeScript, Wagmi, Ethers
-Backend: Node.js, Rust, PHP (Laravel), C# (.NET)
-Blockchain: Solana, Ethereum, Cosmos, TON
-DB: PostgreSQL, MongoDB, Redis, ClickHouse
+Backend: Rust, Node.js,C# (.NET)
+Blockchain: Solana, Ethereum, Cosmos, TON, Monero, Tron
 
-**Developed Projects:** https://t.me/ShogunSwapBot, app.silentswap.com, haqq.network, gun.fun, ankrscan.io, xdefi.io, app.santiment.net
-
-**Available for:** Full-time, Project-based, Consulting/MVP development, Long-term partnerships
+**Developed Projects:** app.silentswap.com, haqq.network, gun.fun, ankrscan.io, xdefi.io, app.santiment.net
 
 📧 rinatficht@gmail.com | 💬 https://t.me/rfihtengolts | https://www.linkedin.com/in/rfihtengolts/
 
